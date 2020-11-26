@@ -1,0 +1,25 @@
+.home {
+    background-color: lightblue;
+    float: center;
+    font-size: 12px;
+}
+
+.bio{
+    border: darkgray;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headings{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+    border: darkgray;
+}
+
+.contact{
+    border: darkgray;
+}
